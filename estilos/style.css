@@ -27,10 +27,6 @@ main {
 
 }
 
-section#redes-sociais {
-    text-align: right;
-}
-
 section#mobile {
     position: absolute;
     width: 311px;
@@ -48,6 +44,10 @@ iframe#tela {
     left: 22px;
     height: 471px;
     width: 270px ;
+}
+
+section#redes-sociais {
+    text-align: right;
 }
 
 section#redes-sociais img {
